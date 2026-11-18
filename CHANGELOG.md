@@ -6,6 +6,8 @@ and the project uses [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.1.0] - 2026-11-19
+
 ### Added
 
 - MCP server over stdio with three read-only tools: `search_docs` (with structured output), `get_section` and `list_docs`.
